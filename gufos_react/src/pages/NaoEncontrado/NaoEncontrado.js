@@ -5,7 +5,7 @@ class NaoEncontrado extends Component{
         return(
             <div>
                 <p>
-                    404: errokk
+                    404: erro
                 </p>
             </div>
         )

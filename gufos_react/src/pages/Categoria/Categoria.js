@@ -70,7 +70,7 @@ class Categoria extends Component{
       
             <main className="conteudoPrincipal">
               <section className="conteudoPrincipal-cadastro">
-                <h1 className="conteudoPrincipal-cadastro-titulo">Categorias</h1>
+                <h1 className="conteudoPrincipal-cadastro-titulo">Encontre seu enderço através de seu CEP</h1>
                 <div className="container" id="conteudoPrincipal-lista">
                   <table id="tabela-lista">
                     <thead>
